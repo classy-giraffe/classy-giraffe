@@ -1,5 +1,5 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/fo-real.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
-### Hi there 👋
+### Hi there, i'm Giraffe! 🦒
 
 <!--
 **classy-giraffe/classy-giraffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
