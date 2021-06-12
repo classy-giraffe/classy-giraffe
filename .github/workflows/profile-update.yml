@@ -1,0 +1,26 @@
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  push:
+    branches:
+      - main
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Profile Readme Stats
+      uses: teoxoy/profile-readme-stats@v1.1
+      with:
+        token: ${{ secrets.USER_TOKEN }}
+    - name: Update README.md
+      run: |
+        if [[ "$(git status --porcelain)" != "" ]]; then
+        git config user.name classy-giraffe[bot]
+        git config user.email chitilivorno@gmail.com
+        git add .
+        git commit -m "Update README"
+        git push
+        fi
