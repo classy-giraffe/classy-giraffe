@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tommaso Chiti</h1>
+<h1 align="center">Hi, I'm Thomas 👋</h1>
 <h3 align="center">A 18-year-old student from Italy, interested in Linux, Docker and CI/CD.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=classy-giraffe&label=Profile%20views&color=0e75b6&style=flat" alt="classy-giraffe" /> </p>
