@@ -29,6 +29,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/giraffe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="giraffe" />
-<a href="https://www.paypal.me/rahuldkjain/10"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator" height="23" width="100" style="border-radius:2px"/>
+<a href="https://www.paypal.me/tommychiti/10"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator" height="500" width="210" style="border-radius:2px"/>
 </a>
 </a></p><br><br>
