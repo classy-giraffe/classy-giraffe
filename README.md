@@ -24,7 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=classy-giraffe&show_icons=true&locale=en" alt="classy-giraffe" /></p>
 
 <h3 align="left">Support:</h3>
-Currently trying to buy a new GPU (yes i'm crazy):
+I accept donations here:
 <p>
   <a href="https://www.buymeacoffee.com/giraffe"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/></a>
   <a href="https://www.paypal.me/tommychiti"><img src="https://ionicabizau.github.io/badges/paypal.svg" height="50" width="210"/></a>
