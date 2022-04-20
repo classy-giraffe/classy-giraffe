@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">A HS student with interests in CS and Data Science</h3>
+<h3 align="center">A student with interests in CS and Data Science</h3>
 
 - 🔭 I’m currently working on [easy-arch](https://github.com/classy-giraffe/easy-arch)
 
