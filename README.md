@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [easy-arch](https://github.com/classy-giraffe/easy-arch)
 
-- 🌱 I’m currently learning **Docker, Podman, ML (scikit and NTLK)**
+- 🌱 I’m currently learning **Rust and parsing techniques!**
 
 - 👯 I’m looking to collaborate on **pretty much anything (both developing and sysadmin side)**
 
